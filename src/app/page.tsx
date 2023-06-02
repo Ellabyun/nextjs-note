@@ -8,7 +8,7 @@ export default function Home() {
   console.log(os.hostname());
   return (
     <div className={styles.main}>
-      <h1>홈페이지 버전2</h1>
+      <h1>홈페이지 버전4</h1>
       <Counter />
       <Image
         src='https://images.unsplash.com/photo-1441986300917-64674bd600d8'
